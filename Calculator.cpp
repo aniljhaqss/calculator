@@ -9,7 +9,7 @@ return a+b;
 }
 void print()
 {
-cout<<sum(10,11);
+cout<<"sum = "<<sum(10,11);
 }
 };
 int main()
