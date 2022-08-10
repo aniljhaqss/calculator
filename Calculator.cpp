@@ -9,7 +9,6 @@ return a+b;
 }
 void print()
 {
-cout<<sum(9,10);
 cout<<sum(10,11);
 }
 };
